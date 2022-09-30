@@ -1,5 +1,5 @@
 
-test2 = "succes"
+test2 = "success"
 
 
 print(test2)
